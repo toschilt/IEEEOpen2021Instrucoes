@@ -17,6 +17,7 @@ Para executar este projeto, são necessárias as seguintes dependências:
  **10.** OpenCV\
  **11.** Tesseract\
  **12.** Leptonica
+ **13.** Pacote *"open2021_atenapkg"*
 
  A seguir, estão descritos os processos de instalação de cada dependência. 
 
@@ -185,7 +186,7 @@ username@user-computer:~$ echo "export COPPELIASIM_ROOT_DIR=INSIRA_CAMINHO_PARA_
 username@user-computer:~$ source ~/.bashrc
 ```
 ## 10. OpenCV
-*Verificar se o ROS já vem com OpenCV.* 
+A biblioteca OpenCV é uma biblioteca específica para desenvolvimento de códigos de Visão Computacional. Para instalá-la, basta executar os passos [descritos neste tutorial](https://linuxize.com/post/how-to-install-opencv-on-ubuntu-20-04/). Basta replicar a seção **Installing OpenCV from the Source** descrita no tutorial.
 
 ## 11. Tesseract e 12. Leptonica
 As ferramentas **Tesseract** e **Leptonica** são utilizadas na detecção dos números arábicos. Para instalá-lo, basta executar os comandos a seguir.
@@ -231,3 +232,4 @@ username@user-computer:~$ sudo apt-get install libtiff5-dev
 ```console
 username@user-computer:~$ sudo apt-get install zlib1g-dev
 ```
+
