@@ -1,7 +1,7 @@
 
 # Equipe Atena - IEEE Open 2021
 
-Projeto desenvolvido para a competição da IEEE Open (edital 2020/2021) para a modalidade da **LARC** *(Latin American Robotics Competition)*. O time é composto de membros do **Núcleo de Robótica Móvel (RMA)** do **Grupo SEMEAR**.
+Projeto desenvolvido para a competição da IEEE Open (edital 2020/2021) para a modalidade da **LARC** *(Latin American Robotics Competition)*. O time é composto de membros do **Núcleo de Robótica Móvel Autônoma (RMA)** do **Grupo SEMEAR**.
 
 Para executar este projeto, são necessárias as seguintes dependências:
 
@@ -175,7 +175,7 @@ Caso seja perguntado, substitua o arquivo existente na pasta do **CoppeliaSim**.
 
 O último passo será definir a variável de ambiente *$COPPELIASIM_ROOT_DIR* toda vez que o terminal é aberto. Para isso, utilize os comandos abaixo, substituindo *INSIRA_CAMINHO_PARA_O_COPPELIA_AQUI* pelo caminho para a pasta extraída do **CoppeliaSim**. 
 
-**OBS:** para obter o caminho , acesse a pasta em questão e utilize o comando *pwd*.
+**OBS:** para obter o caminho, acesse a pasta em questão e utilize o comando *pwd*.
 
  ```console
 username@user-computer:~$ echo "export COPPELIASIM_ROOT_DIR=INSIRA_CAMINHO_PARA_O_COPPELIA_AQUI" >> ~/.bashrc
