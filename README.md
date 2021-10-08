@@ -17,7 +17,6 @@ Para executar este projeto, são necessárias as seguintes dependências:
  **10.** OpenCV\
  **11.** Tesseract\
  **12.** Leptonica
- **13.** Pacote *"open2021_atenapkg"*
 
  A seguir, estão descritos os processos de instalação de cada dependência. 
 
